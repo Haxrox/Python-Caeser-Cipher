@@ -1,0 +1,3 @@
+LETTERS =('ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz')
+#0123456789
+
